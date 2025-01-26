@@ -1,0 +1,14 @@
+h1 {
+    color: darkred;
+    text-align: center;
+}
+
+html {
+    background-color: #FFCCE5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list {
+    text-align: center;
+    list-style-position: inside;
+}
